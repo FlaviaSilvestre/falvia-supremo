@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: rgba(166, 34, 243, 0.767);
+    background: rgb(163, 5, 255);
     margin: 0px;
 }
 
@@ -12,7 +12,14 @@ body {
     }
     
     section {
-        background: rgb(189, 130, 253);
+        background: rgb(184, 117, 255);
         padding-bottom: 80px;
         padding-top: 80px;
-    }
+        display: flex;
+        justify-content: center;
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
