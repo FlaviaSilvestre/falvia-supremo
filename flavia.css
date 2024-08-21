@@ -11,14 +11,22 @@ body {
         color: rgb(234, 243, 255);
     }
     
-    section {
-        background: rgb(184, 117, 255);
-        padding-bottom: 80px;
-        padding-top: 80px;
-        display: flex;
-        justify-content: center;
+/* código omitido */
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 
+.chamada-texto {
+    margin-right: 5%;
+}
+.chamada-texto {
+    margin-right: 20px;
+}
 section {
     display: block;
     unicode-bidi: isolate;
